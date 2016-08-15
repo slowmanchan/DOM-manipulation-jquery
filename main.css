@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.main-nav {
+
+}
+
+.main-nav ul{
+  list-style: none;
+  overflow: auto;
+}
+.main-nav li{
+  padding: 20px;
+  border: 1px solid black;
+  float: left;
+}
